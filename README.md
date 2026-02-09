@@ -1,1 +1,1 @@
-![Maquette du projet](maquette.png)
+![Maquette du projet](Maquette.png)
